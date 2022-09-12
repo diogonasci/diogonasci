@@ -20,7 +20,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogonasci&show_icons=true&locale=en" alt="diogonasci" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogonasci&" alt="diogonasci" /></p>
