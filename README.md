@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogonasci&label=Profile%20views&color=0e75b6&style=flat" alt="diogonasci" /> </p>
 
-- 🌱 I’m currently working as **C#** developer
+- 🌱 I’m currently working as a **C#** developer
 
 - 📫 How to reach me **diogonascii@gmail.com**
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+- ⚡ Fun fact **I broke my left arm the same day I got my right arm back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
