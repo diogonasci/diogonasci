@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogonasci&label=Profile%20views&color=0e75b6&style=flat" alt="diogonasci" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working as **C#** developer
 
-- 📫 How to reach me **diogonasci@hotmail.com**
+- 📫 How to reach me **diogonascii@gmail.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
