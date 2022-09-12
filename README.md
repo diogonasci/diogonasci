@@ -1,7 +1,7 @@
 ![MasterHead](https://www.intersoft.com.br/images/banner1.jpg)(https://www.linkedin.com/in/diogonasci/)
 <h1 align="center">Hi 👋, I'm Diogo Santos</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
 
 
 
@@ -18,5 +18,3 @@
 <a href="https://linkedin.com/in/diogonasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogonasci" height="30" width="40" /></a>
 <a href="https://instagram.com/diogonasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogonasci" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
