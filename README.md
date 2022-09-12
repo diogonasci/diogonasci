@@ -4,17 +4,18 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogonasci&label=Profile%20views&color=0e75b6&style=flat" alt="diogonasci" /> </p>
+
+
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical"  />
 
 - 🌱 I’m currently working as a **C#** developer
 
 - 📫 How to reach me **diogonascii@gmail.com**
 
 - ⚡ Fun fact **I broke my left arm the same day I got my right arm back**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diogonasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogonasci" height="30" width="40" /></a>
-<a href="https://instagram.com/diogonasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogonasci" height="30" width="40" /></a>
+<p >
+  <br>  
+  <a href="[https://linkedin.com/in/diogonasci]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
