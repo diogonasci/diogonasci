@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I broke my left arm the same day I got my right arm back**
 <p >
   <br>  
-  <a href="[https://linkedin.com/in/diogonasci]">
+  <a href="https://linkedin.com/in/diogonasci">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
