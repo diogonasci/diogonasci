@@ -1,6 +1,6 @@
 ![MasterHead](https://www.intersoft.com.br/images/banner1.jpg)(https://www.linkedin.com/in/diogonasci/)
 <h1 align="center">Hi 👋, I'm Diogo Santos</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
