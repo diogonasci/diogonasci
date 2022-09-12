@@ -1,7 +1,7 @@
 ![MasterHead](https://www.intersoft.com.br/images/banner1.jpg)(https://www.linkedin.com/in/diogonasci/)
 <h1 align="center">Hi 👋, I'm Diogo Santos</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
 
 
 
