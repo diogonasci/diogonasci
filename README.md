@@ -1,13 +1,12 @@
 ![MasterHead](https://www.intersoft.com.br/images/banner1.jpg)(https://www.linkedin.com/in/diogonasci/)
 <h1 align="center">Hi 👋, I'm Diogo Santos</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogonasci&show_icons=true&locale=en&layout=compact" alt="diogonasci" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogonasci&label=Profile%20views&color=0e75b6&style=flat" alt="diogonasci" /> </p>
 
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical"  />
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=diogonasci&theme=radical"  />
 
 - 🌱 I’m currently working as a **C#** developer
 
