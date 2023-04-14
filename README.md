@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogonasci&label=Profile%20views&color=0e75b6&style=flat" alt="diogonasci" /> </p>
 
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=diogonasci&theme=radical"  />
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=diogonasci&theme=radical" />
 
 - 🌱 I’m currently working as a **C#** developer
 
